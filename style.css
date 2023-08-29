@@ -206,6 +206,11 @@ header {
     /* text-shadow: 1px 1px 1px #000; */
     font-size: 24px;
   }
+    .age{
+    color: #433C6F;
+    font-size: 24px; 
+    }
+
 .item-scribe{
   display: flex;
   justify-content: space-evenly;
