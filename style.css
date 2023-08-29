@@ -246,6 +246,11 @@ header {
   background-image: url(nina.jpg);
 }
 
+.photo-teacher2{
+  border-radius: 20px;
+  background-image: url(nata.jpg);
+}
+
 .teacher-bio{
   width: 500px;
 }
